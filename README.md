@@ -1,2 +1,2 @@
 # TechnoHacks-python-developer-tasks
-This repository contain all tasks of python developer of TechnoHacks EduTech
+This repository contain all tasks of python development domain of TechnoHacks EduTech
